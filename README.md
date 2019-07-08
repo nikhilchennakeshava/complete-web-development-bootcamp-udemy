@@ -1,7 +1,7 @@
 ### complete-web-development-bootcamp-udemy
 
 # The Complete 2019 Web Development Bootcamp
-## BY: Angela Yu
+## By: Angela Yu
 
 ### The only course you need to learn to code and become a full-stack web developer. HTML, CSS, Javascript, Node and more! 
 

@@ -95,3 +95,7 @@ HyperText - Bunch of documents linked together via hyperlinks.
 
 >download - attribute in \<a> which tells the browser to download the URL pointed to by href instead of going to it.  
 >\<a download href="#">
+
+---
+
+## Section 3 - Intermediate Html
